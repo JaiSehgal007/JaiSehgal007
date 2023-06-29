@@ -1,7 +1,7 @@
 # Greetings, I'm Jai 👋✨
 
 # 💫 About Me:
-♻️ Learning from all Building for Everyone<br>✨ A Technophile<br>🔮 Looking to collaborate on full stack and app development projects<br>🌱 Currently exploring the field of Machine Learning<br>😉 Simple but still complicated<br>
+♻️ Learning from all Building for Everyone<br>✨ A Technophile<br>👨‍💻 Competitive Coder<br>🔮 Looking to collaborate on full stack and app development projects<br>🌱 Currently exploring the field of Machine Learning<br>
 
 
 ## 🌐 Socials:
