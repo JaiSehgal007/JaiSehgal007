@@ -1,6 +1,4 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNY1vdEAAmzaTsNRQB_gycmKTT4U-0lvTY8R4c0QQD5NVjPIP9l2OGv8n9SWYtmso04dBQ31OQAv97xvEcS6A7RvYuwMkO1hxefCyj3lEDOFkHEbbp-rlxvc4-VGSh9Drq-hncz8ZAeDfGcvIOdIxVmgnOW1UKnWj_7YFACnXY7APwRTHFKEslqNY_862/s1280/Group%202.png)]()
-
-<br/>
 <br/>
 <h1 align="center">नमस्ते😇✨, I'm Jai Sehgal</h1>
 <h3 align="center">Someone who navigates the worlds of Full Stack Development and ML Research</h3>
