@@ -9,14 +9,13 @@
 
 
 <br/>
-<br/>
 
 # 💫 About Me:
 - ♻️ **Learning from all Building for Everyone**
-- ✨ **A Technophile**
-- 👨‍💻 **Competitive Coder**
 - 🔮 **Looking to collaborate on Full Stack and ML projects**
 - 🌱 **Currently exploring the field of Deep Learning**
+- 👨‍💻 **Competitive Coder**
+- ✨ **A Technophile**
 - ⚡ **Mathematics was boring until ML came to my life😜**
 
 <br/>
