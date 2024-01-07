@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-<p>
+<p align="left">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false" alt="jaisehgal007" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisehgal007&show_icons=true&locale=en" alt="jaisehgal007" /> </p>
   <br/>
@@ -27,11 +27,10 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisehgal007&show_icons=true&locale=en&layout=compact" alt="jaisehgal007" /></p>
 </p>
 
+<br/>
+
 # 📊 LeetCode Stats:
-<p>
-<img 
-  src="https://leetcard.jacoblin.cool/codersahib_001?theme=light" alt="jaisehgal007" />
-</p>
+<img src="https://leetcard.jacoblin.cool/codersahib_001?theme=light" alt="jaisehgal007" />
 
 <br/>
 
