@@ -1,4 +1,4 @@
-[![MasterHead]()](https://drive.google.com/file/d/1xAmSpV6EtVZJV-hYj6FV1-mFjHyQK8Um/view?usp=sharing)
+[![MasterHead](https://drive.google.com/file/d/1xAmSpV6EtVZJV-hYj6FV1-mFjHyQK8Um/view?usp=sharing)]()
 
 <h1 align="center">नमस्ते😇✨, I'm Jai Sehgal</h1>
 <h3 align="center">Someone who navigates the worlds of Full Stack Development and ML Research</h3>
