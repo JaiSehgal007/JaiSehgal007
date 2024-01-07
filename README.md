@@ -11,7 +11,7 @@
 - ♻️ **Learning from all Building for Everyone**
 - ✨ **A Technophile**
 - 👨‍💻 **Competitive Coder**
-- 🔮 **Looking to collaborate on Full Stack and Machine Learning projects**
+- 🔮 **Looking to collaborate on Full Stack and ML projects**
 - 🌱 **Currently exploring the field of Deep Learning**
 - ⚡ **Mathematics was boring until ML came to my life😜**
 
