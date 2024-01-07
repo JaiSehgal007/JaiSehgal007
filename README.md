@@ -13,7 +13,7 @@
 - 👨‍💻 **Competitive Coder**
 - 🔮 **Looking to collaborate on Full Stack and Machine Learning projects**
 - 🌱 **Currently exploring the field of Deep Learning**
-- ⚡ Fun fact **At times, my mind orchestrates code, while other times, the code orchestrates itself within my mind😜**
+- ⚡ **Mathematics was boring until ML came to my life😜**
 
 
 ## 🌐 Socials:
