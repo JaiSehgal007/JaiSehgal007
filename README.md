@@ -3,7 +3,7 @@
 <h1 align="center">नमस्ते😇✨, I'm Jai Sehgal</h1>
 <h3 align="center">Someone who navigates the worlds of Full Stack Development and ML Research</h3>
 
-<img align="right" alt="Coding" width="400" src="https://jaisehgal-live.vercel.app/static/media/edu2.ebb4030fd84d363a3246.webp">
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJWaNB8MQzfroB30jI_Y0RfeBDntSUKJtFXozKvl5fOoWCttFaOwSvWVUQ4UrpEhL2BgfC3L0vejzS5qeVaUzdToRd_T_Ym_kN-vSWQ8RseNQNjvYQqyTlawmD_18zhQyXg4SEwzILijpKpaGEuW-KyrODGXQ3VGKwOUnsq2RrPHU6pwgllK_PcPTBln3/s450/male-programmer-working-on-laptop-4375019-3640109.png">
 
 
 
