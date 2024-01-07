@@ -3,6 +3,10 @@
 <h1 align="center">नमस्ते😇✨, I'm Jai Sehgal</h1>
 <h3 align="center">Someone who navigates the worlds of Full Stack Development and ML Research</h3>
 
+<img align="right" alt="Coding" width="400" src="https://jaisehgal-live.vercel.app/static/media/edu2.ebb4030fd84d363a3246.webp">
+
+
+
 # 💫 About Me:
 - ♻️ **Learning from all Building for Everyone**
 - ✨ **A Technophile**
