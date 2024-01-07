@@ -21,10 +21,10 @@
 # 📊 GitHub Stats:
 <p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisehgal007&show_icons=true&locale=en&layout=compact" alt="jaisehgal007" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false" alt="jaisehgal007" /></p>
-  <br/>
-  <p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=JaiSehgal007&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="jaisehgal007" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisehgal007&show_icons=true&locale=en" alt="jaisehgal007" /> </p>
+  <br/>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false" alt="jaisehgal007" /></p>
+  <p>&nbsp;<img src="https://github-contributor-stats.vercel.app/api?username=JaiSehgal007&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="jaisehgal007" /></p>
 </p>
 
 # 📊 LeetCode Stats:
