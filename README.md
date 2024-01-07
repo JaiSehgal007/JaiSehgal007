@@ -28,7 +28,9 @@
 </p>
 
 # 📊 LeetCode Stats:
+<p>
 <img align="left" src="https://leetcard.jacoblin.cool/codersahib_001?theme=light" alt="jaisehgal007" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JaiSehgal007&icon=0&color=0)](https://visitcount.itsvg.in)
