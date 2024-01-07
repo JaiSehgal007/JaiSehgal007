@@ -19,8 +19,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiSehgal007&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false" alt="jaisehgal007" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiSehgal007&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="jaisehgal007" />
+</p>
 
 # 📊 LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/codersahib_001?theme=light)
