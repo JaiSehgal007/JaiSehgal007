@@ -44,7 +44,9 @@
 <br/>
 
 # 📊 LeetCode Stats:
-<img src="https://leetcard.jacoblin.cool/codersahib_001?theme=light" alt="jaisehgal007" />
+<div align="center">
+<img height="180em" src="https://leetcard.jacoblin.cool/codersahib_001?theme=light" alt="jaisehgal007"/>
+</div>
 
 <br/>
 
