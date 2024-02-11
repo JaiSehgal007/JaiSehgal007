@@ -12,6 +12,7 @@
 
 # 💫 About Me:
 - ♻️ **Learning from all Building for Everyone**
+- 📚 **IT'25 Undergraduate @ NIT Kurukshetra**
 - 🔮 **Looking to collaborate on Full Stack and ML projects**
 - 🌱 **Currently exploring the field of Deep Learning**
 - 👨‍💻 **Competitive Coder**
@@ -31,12 +32,13 @@
 
 
 # 📊 GitHub Stats:
-<p align="left">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiSehgal007&theme=default&hide_border=false" alt="jaisehgal007" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisehgal007&show_icons=true&locale=en&layout=compact" alt="jaisehgal007" /></p>
-  <br/>
-  <p><img src="https://github-contributor-stats.vercel.app/api?username=JaiSehgal007&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="jaisehgal007" /></p>
-</p>
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaiSehgal007&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaiSehgal007&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaiSehgal007&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaiSehgal007&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaiSehgal007&theme=github_dark" />
+</div>
 
 <br/>
 <br/>
