@@ -12,8 +12,8 @@
 
 # 💫 About Me:
 - ♻️ **Learning from all Building for Everyone**
-- 🌱 **Embarking on the ML journey: Diving into MLOps, Docker, CI/CD, and Cloud technologies for pioneering projects**
 - 🚀 **Seeking Full Stack and Deep Learning collabs to innovate**
+- 🌱 **Delving into MLOps, Docker, CI/CD, and Cloud Technologies**
 - 👨‍💻 **Competitive Coder**
 - ✨ **A Technophile**
 - ⚡ **Mathematics was boring until ML came to my life😜**
