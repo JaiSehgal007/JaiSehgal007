@@ -12,9 +12,8 @@
 
 # 💫 About Me:
 - ♻️ **Learning from all Building for Everyone**
-- 📚 **IT'25 Undergraduate @ NIT Kurukshetra**
-- 🔮 **Looking to collaborate on Full Stack and ML projects**
-- 🌱 **Currently exploring the field of Deep Learning**
+- 🚀 **Open to collaborations in Full Stack and Deep Learning domains**
+- 🌱 **Embarking on the ML journey: Diving into MLOps, Docker, CI/CD, and Cloud technologies for pioneering projects**
 - 👨‍💻 **Competitive Coder**
 - ✨ **A Technophile**
 - ⚡ **Mathematics was boring until ML came to my life😜**
